@@ -1,0 +1,39 @@
+# Vivado
+*.jou
+*.log
+*.str
+*.xpr.lock
+*.backup.jou
+*.backup.log
+.Xil/
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
+*.bit
+*.bin
+*.dcp
+*.wdb
+*.webtalk
+*.vdi
+*.pb
+*.rpt
+*.rpx
+
+# Arduino / PlatformIO
+.vscode/
+.pio/
+*.elf
+*.hex
+
+# Credenciais futuras
+secrets.h
+credentials.h
+.env
+*.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
